@@ -63,7 +63,7 @@ currency_converter/
 👨‍💻 Developer
 Your Name Here
 
-🔗 
+🔗 https://www.linkedin.com/in/prabhu-charan-jerripothula-8006b7352/
 
 📫 developerprabhucharan@gmail.com
 
